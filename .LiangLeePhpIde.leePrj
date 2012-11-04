@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DOCUMENT Type="Liang Lee PHP IDE" CreateVersion="2.3.4" version="2.3.4" Modules="professional" RootPath="." Language="cn">
+  <COMPONENT cid="liang.lee.php.elgg">
+    <PRJ Property="BUILDTYPE" MultiBuildValue="Default"/>
+    <PRJ Property="SERVERTYPE" Value="UNIX"/>
+    <PRJ Property="ARPCOMMENTS" Value="Lee's Views Admin List." ValueLocId="*"/>
+    <PRJ Property="REPAIR" Value="elgg"/>
+    <PRJ Property="SYSTEMCOMPONENT" Value="elgg"/>
+    <PRJ Property="Manufacturer" Value="Liang Lee" ValueLocId="*"/>
+    <PRJ Property="ProductCode" Value="9872:{D93330AC-LEE-52AF1-87BD-LE42AVIEW}" Type="5"/>
+    <PRJ Property="ProductLanguage" Value="2057"/>
+    <PRJ Property="ProductName" Value="LiangLeeViewAdmins" ValueLocId="*"/>
+    <PRJ Property="ProductVersion" Value="1.0.1"/>
+  </COMPONENT>
